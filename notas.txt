@@ -9,6 +9,8 @@ comandos
 - Fetch repo metadata: git fetch
 - Pull: git pull
 
+Buenas practicas sobre commit:
+
 Ramas:
 Las ramas nos permiten agregar commits de una manera
 segura, sin alterar directamente la rama principal
