@@ -9,7 +9,10 @@ comandos
 - Fetch repo metadata: git fetch
 - Pull: git pull
 
-Buenas practicas sobre commit:
+Buenas practicas sobre commits:
+Es recomendable subir commits de manera frecuente
+(15-20 minutos) con el objetivo de respaldar nuestro
+codigo mientras lo vamos desarrollando.
 
 Ramas:
 Las ramas nos permiten agregar commits de una manera
