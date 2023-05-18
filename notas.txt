@@ -15,3 +15,19 @@ Ramas:
 Las ramas nos permiten agregar commits de una manera
 segura, sin alterar directamente la rama principal
 (main).
+
+Integración de ramas:
+Usamos un merge para "mezclar" dos ramas. 1 sola
+recibe los cambios.
+Es recomendable borrar las ramas que ya no utilizamos.
+
+Estrategias para resolución de conflictos:
+1. Merge commit: Integramos cmbios y resolvemos
+    conflictos en una sola operación.
+2. Rebase: Cambiamos el commit de origen de nuestra
+    rama y resolvemos conflictos. Postreriormente hacemos
+    un merge sin conflictos.
+3. Pull Request (PR):
+    Un pull request nos permite integrar cambios de una
+    rama a otra, con el beneficio de que alguien nos puede
+    ayudar a revisar los cambios antes de su integración.
