@@ -6,3 +6,5 @@ comandos
 - Push: git push
 - Fetch: git fetch
 - Pull: git pull
+- Fetch repo metadata: git fetch
+- Pull: git pull
